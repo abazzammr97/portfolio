@@ -377,7 +377,7 @@ ul {
 /* Skills Section */
 .skills-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    grid-template-columns: repeat(4, 1fr);
     gap: 2rem;
 }
 
@@ -719,4 +719,5 @@ footer p {
     height: 100%;
     background: rgba(0, 0, 0, 0.6);
     z-index: -1;
+
 }
