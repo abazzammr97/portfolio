@@ -723,7 +723,7 @@ footer p {
 
 .publications {
     padding: var(--section-spacing) 0;
-    background-color: rgba(30, 41, 59, 0.3);
+    background-color: rgba(5, 5, 5, 0.9);
 }
 
 .publication-list {
@@ -806,4 +806,5 @@ footer p {
 .contact-label {
     font-weight: 600;
     color: var(--text-primary);
+
 }
